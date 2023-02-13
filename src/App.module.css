@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continer{
+    text-align: center;
+    background-color: #181823;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
